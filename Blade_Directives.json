@@ -1,0 +1,266 @@
+{
+    // Laravel snippets for vscode
+    // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
+    // Creation Date: 27/02/2021
+
+    "Blade Directives - @if (Laravel snippet)": {
+        "prefix": "@if",
+        "body": ["@if ()"],
+        "description": "Blade Directives - @if (Laravel snippet)"
+    },
+    "Blade Directives - @elseif (Laravel snippet)": {
+        "prefix": "@elseif",
+        "body": ["@elseif ()"],
+        "description": "Blade Directives - @elseif (Laravel snippet)"
+    },
+    "Blade Directives - @else (Laravel snippet)": {
+        "prefix": "@else",
+        "body": ["@else"],
+        "description": "Blade Directives - @else (Laravel snippet)"
+    },
+    "Blade Directives - @endif (Laravel snippet)": {
+        "prefix": "@endif",
+        "body": ["@endif"],
+        "description": "Blade Directives - @endif (Laravel snippet)"
+    },
+    "Blade Directives - @unless (Laravel snippet)": {
+        "prefix": "@unless",
+        "body": ["@unless ()"],
+        "description": "Blade Directives - @unless (Laravel snippet)"
+    },
+    "Blade Directives - @endunless (Laravel snippet)": {
+        "prefix": "@endunless",
+        "body": ["@endunless"],
+        "description": "Blade Directives - @endunless (Laravel snippet)"
+    },
+    "Blade Directives - @isset (Laravel snippet)": {
+        "prefix": "@isset",
+        "body": ["@isset()"],
+        "description": "Blade Directives - @isset (Laravel snippet)"
+    },
+    "Blade Directives - @endisset (Laravel snippet)": {
+        "prefix": "@endisset",
+        "body": ["@endisset"],
+        "description": "Blade Directives - @endisset (Laravel snippet)"
+    },
+    "Blade Directives - @empty (Laravel snippet)": {
+        "prefix": "@empty",
+        "body": ["@empty()"],
+        "description": "Blade Directives - @empty (Laravel snippet)"
+    },
+    "Blade Directives - @endempty (Laravel snippet)": {
+        "prefix": "@endempty",
+        "body": ["@endempty"],
+        "description": "Blade Directives - @endempty (Laravel snippet)"
+    },
+    "Authentication Directives - @auth (Laravel snippet)": {
+        "prefix": "@auth",
+        "body": ["@auth"],
+        "description": "Authentication Directives - @auth (Laravel snippet)"
+    },
+    "Authentication Directives - @endauth (Laravel snippet)": {
+        "prefix": "@endauth",
+        "body": ["@endauth"],
+        "description": "Authentication Directives - @endauth (Laravel snippet)"
+    },
+    "Authentication Directives - @guest (Laravel snippet)": {
+        "prefix": "@guest",
+        "body": ["@guest"],
+        "description": "Authentication Directives - @guest (Laravel snippet)"
+    },
+    "Authentication Directives - @endguest (Laravel snippet)": {
+        "prefix": "@endguest",
+        "body": ["@endguest"],
+        "description": "Authentication Directives - @endguest (Laravel snippet)"
+    },
+    "Environment Directives - @production (Laravel snippet)": {
+        "prefix": "@production",
+        "body": ["@production"],
+        "description": "Environment Directives - @production (Laravel snippet)"
+    },
+    "Environment Directives - @endproduction (Laravel snippet)": {
+        "prefix": "@endproduction",
+        "body": ["@endproduction"],
+        "description": "Environment Directives - @endproduction (Laravel snippet)"
+    },
+    "Environment Directives - @env (Laravel snippet)": {
+        "prefix": "@env",
+        "body": ["@env()"],
+        "description": "Environment Directives - @env (Laravel snippet)"
+    },
+    "Environment Directives - @endenv (Laravel snippet)": {
+        "prefix": "@endenv",
+        "body": ["@endenv"],
+        "description": "Environment Directives - @endenv (Laravel snippet)"
+    },
+    "Section Directives - @hasSection (Laravel snippet)": {
+        "prefix": "@hasSection",
+        "body": ["@hasSection()"],
+        "description": "Section Directives - @hasSection (Laravel snippet)"
+    },
+    "Section Directives - @sectionMissing (Laravel snippet)": {
+        "prefix": "@sectionMissing",
+        "body": ["@sectionMissing()"],
+        "description": "Section Directives - @sectionMissing (Laravel snippet)"
+    },
+    "Switch Statements - @switch (Laravel snippet)": {
+        "prefix": "@switch",
+        "body": ["@switch()"],
+        "description": "Switch Statements - @switch (Laravel snippet)"
+    },
+    "Switch Statements - @case (Laravel snippet)": {
+        "prefix": "@case",
+        "body": ["@case()"],
+        "description": "Switch Statements - @case (Laravel snippet)"
+    },
+    "Switch Statements - @break (Laravel snippet)": {
+        "prefix": "@break",
+        "body": ["@break"],
+        "description": "Switch Statements - @break (Laravel snippet)"
+    },
+    "Switch Statements - @default (Laravel snippet)": {
+        "prefix": "@default",
+        "body": ["@default"],
+        "description": "Switch Statements - @default (Laravel snippet)"
+    },
+    "Switch Statements - @endswitch (Laravel snippet)": {
+        "prefix": "@endswitch",
+        "body": ["@endswitch"],
+        "description": "Switch Statements - @endswitch (Laravel snippet)"
+    },
+    "Loops - @for (Laravel snippet)": {
+        "prefix": "@for",
+        "body": ["@for ()"],
+        "description": "Loops - @for (Laravel snippet)"
+    },
+    "Loops - @endfor (Laravel snippet)": {
+        "prefix": "@endfor",
+        "body": ["@endfor"],
+        "description": "Loops - @endfor (Laravel snippet)"
+    },
+    "Loops - @foreach (Laravel snippet)": {
+        "prefix": "@foreach",
+        "body": ["@foreach ()"],
+        "description": "Loops - @foreach (Laravel snippet)"
+    },
+    "Loops - @endforeach (Laravel snippet)": {
+        "prefix": "@endforeach",
+        "body": ["@endforeach"],
+        "description": "Loops - @endforeach (Laravel snippet)"
+    },
+    "Loops - @forelse (Laravel snippet)": {
+        "prefix": "@forelse",
+        "body": ["@forelse ()"],
+        "description": "Loops - @forelse (Laravel snippet)"
+    },
+    "Loops - @empty (Laravel snippet)": {
+        "prefix": "@empty",
+        "body": ["@empty"],
+        "description": "Loops - @empty (Laravel snippet)"
+    },
+    "Loops - @endforelse (Laravel snippet)": {
+        "prefix": "@endforelse",
+        "body": ["@endforelse"],
+        "description": "Loops - @endforelse (Laravel snippet)"
+    },
+    "Loops - @while (Laravel snippet)": {
+        "prefix": "@while",
+        "body": ["@while ()"],
+        "description": "Loops - @while (Laravel snippet)"
+    },
+    "Loops - @endwhile (Laravel snippet)": {
+        "prefix": "@endwhile",
+        "body": ["@endwhile"],
+        "description": "Loops - @endwhile (Laravel snippet)"
+    },
+    "Including Subviews - @include (Laravel snippet)": {
+        "prefix": "@include",
+        "body": ["@include()"],
+        "description": "Including Subviews - @include (Laravel snippet)"
+    },
+    "Including Subviews - @includeIf (Laravel snippet)": {
+        "prefix": "@includeIf",
+        "body": ["@includeIf()"],
+        "description": "Including Subviews - @includeIf (Laravel snippet)"
+    },
+    "Including Subviews - @includeWhen (Laravel snippet)": {
+        "prefix": "@includeWhen",
+        "body": ["@includeWhen()"],
+        "description": "Including Subviews - @includeWhen (Laravel snippet)"
+    },
+    "Including Subviews - @includeUnless (Laravel snippet)": {
+        "prefix": "@includeUnless",
+        "body": ["@includeUnless()"],
+        "description": "Including Subviews - @includeUnless (Laravel snippet)"
+    },
+    "Including Subviews - @includeFirst (Laravel snippet)": {
+        "prefix": "@includeFirst",
+        "body": ["@includeFirst()"],
+        "description": "Including Subviews - @includeFirst (Laravel snippet)"
+    },
+    "Including Subviews - @extends (Laravel snippet)": {
+        "prefix": "@extends",
+        "body": ["@extends()"],
+        "description": "Including Subviews - @extends (Laravel snippet)"
+    },
+    "Rendering Views For Collections - @each (Laravel snippet)": {
+        "prefix": "@each",
+        "body": ["@each()"],
+        "description": "Rendering Views For Collections - @each (Laravel snippet)"
+    },
+    "The Once Directive - @once (Laravel snippet)": {
+        "prefix": "@once",
+        "body": ["@once"],
+        "description": "The Once Directive - @once (Laravel snippet)"
+    },
+    "The Once Directive - @endonce (Laravel snippet)": {
+        "prefix": "@endonce",
+        "body": ["@endonce"],
+        "description": "The Once Directive - @endonce (Laravel snippet)"
+    },
+    "Defining A Layout - @section (Laravel snippet)": {
+        "prefix": "@section",
+        "body": ["@section()"],
+        "description": "Defining A Layout - @section (Laravel snippet)"
+    },
+    "Defining A Layout - @endsection (Laravel snippet)": {
+        "prefix": "@endsection",
+        "body": ["@endsection"],
+        "description": "Defining A Layout - @endsection (Laravel snippet)"
+    },
+    "Defining A Layout - @parent (Laravel snippet)": {
+        "prefix": "@parent",
+        "body": ["@parent"],
+        "description": "Defining A Layout - @parent (Laravel snippet)"
+    },
+    "Defining A Layout - @yield (Laravel snippet)": {
+        "prefix": "@yield",
+        "body": ["@yield()"],
+        "description": "Defining A Layout - @yield (Laravel snippet)"
+    },
+    "CSRF Field - @csrf (Laravel snippet)": {
+        "prefix": "@csrf",
+        "body": ["@csrf"],
+        "description": "CSRF Field - @csrf (Laravel snippet)"
+    },
+    "Method Field - @method (Laravel snippet)": {
+        "prefix": "@method",
+        "body": ["@method()"],
+        "description": "Method Field - @method (Laravel snippet)"
+    },
+    "Validation Errors - @error (Laravel snippet)": {
+        "prefix": "@error",
+        "body": ["@error()"],
+        "description": "Validation Errors - @error (Laravel snippet)"
+    },
+    "Validation Errors - @enderror (Laravel snippet)": {
+        "prefix": "@enderror",
+        "body": ["@enderror"],
+        "description": "Validation Errors - @enderror (Laravel snippet)"
+    },
+    "Raw PHP - @php & @endphp(Laravel snippet)": {
+        "prefix": "@php",
+        "body": ["@php", "@endphp"],
+        "description": "Raw PHP - @php & @endphp(Laravel snippet)"
+    }
+}

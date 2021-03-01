@@ -1,0 +1,72 @@
+{
+    // Laravel snippets for vscode
+    // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
+    // Creation Date: 27/02/2021
+    // Creation Date: 28/02/2021
+
+    "Router Methods - Route::get (Laravel snippet)": {
+        "prefix": "Route::get",
+        "body": ["Route::get()"],
+        "description": "Router Methods - Route::get (Laravel snippet)"
+    },
+    "Router Methods - Route::post (Laravel snippet)": {
+        "prefix": "Route::post",
+        "body": ["Route::post()"],
+        "description": "Router Methods - Route::post (Laravel snippet)"
+    },
+    "Router Methods - Route::put (Laravel snippet)": {
+        "prefix": "Route::put",
+        "body": ["Route::put()"],
+        "description": "Router Methods - Route::put (Laravel snippet)"
+    },
+    "Router Methods - Route::patch (Laravel snippet)": {
+        "prefix": "Route::patch",
+        "body": ["Route::patch()"],
+        "description": "Router Methods - Route::patch (Laravel snippet)"
+    },
+    "Router Methods - Route::delete (Laravel snippet)": {
+        "prefix": "Route::delete",
+        "body": ["Route::delete()"],
+        "description": "Router Methods - Route::delete (Laravel snippet)"
+    },
+    "Router Methods - Route::options (Laravel snippet)": {
+        "prefix": "Route::options",
+        "body": ["Route::options()"],
+        "description": "Router Methods - Route::options (Laravel snippet)"
+    },
+    "Redirect Routes - Route::redirect (Laravel snippet)": {
+        "prefix": "Route::redirect",
+        "body": ["Route::redirect()"],
+        "description": "Redirect Routes - Route::redirect (Laravel snippet)"
+    },
+    "Redirect Routes - Route::permanentRedirect (Laravel snippet)": {
+        "prefix": "Route::permanentRedirect",
+        "body": ["Route::permanentRedirect()"],
+        "description": "Redirect Routes - Route::permanentRedirect (Laravel snippet)"
+    },
+    "View Routes - Route::view (Laravel snippet)": {
+        "prefix": "Route::view",
+        "body": ["Route::view()"],
+        "description": "View Routes - Route::view (Laravel snippet)"
+    },
+    "Fallback Routes - Route::fallback (Laravel snippet)": {
+        "prefix": "Route::fallback",
+        "body": ["Route::fallback()"],
+        "description": "Fallback Routes - Route::fallback (Laravel snippet)"
+    },
+    "Accessing The Current Route - Route::current (Laravel snippet)": {
+        "prefix": "Route::current",
+        "body": ["Route::current()"],
+        "description": "Accessing The Current Route - Route::current (Laravel snippet)"
+    },
+    "Accessing The Current Route - Route::currentRouteName (Laravel snippet)": {
+        "prefix": "Route::currentRouteName",
+        "body": ["Route::currentRouteName()"],
+        "description": "Accessing The Current Route - Route::currentRouteName (Laravel snippet)"
+    },
+    "Accessing The Current Route - Route::currentRouteAction (Laravel snippet)": {
+        "prefix": "Route::currentRouteAction",
+        "body": ["Route::currentRouteAction()"],
+        "description": "Accessing The Current Route - Route::currentRouteAction (Laravel snippet)"
+    }
+}
