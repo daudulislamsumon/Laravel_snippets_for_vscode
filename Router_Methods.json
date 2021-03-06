@@ -3,6 +3,7 @@
     // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
     // Creation Date: 27/02/2021
     // Creation Date: 28/02/2021
+    // Creation Date: 5/03/2021
 
     "Router Methods - Route::get (Laravel snippet)": {
         "prefix": "Route::get",
@@ -68,5 +69,10 @@
         "prefix": "Route::currentRouteAction",
         "body": ["Route::currentRouteAction()"],
         "description": "Accessing The Current Route - Route::currentRouteAction (Laravel snippet)"
+    },
+    "URLs For Named Routes (Laravel snippet)": {
+        "prefix": "uses-as",
+        "body": ["'uses' => '',", "'as' => ''"],
+        "description": "URLs For Named Routes (Laravel snippet)"
     }
 }
