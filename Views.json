@@ -1,0 +1,41 @@
+{
+    // Laravel snippets for vscode
+    // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
+    // Creation Date: 09/03/2021
+
+    "Views - view (Laravel snippet)": {
+        "prefix": "view",
+        "body": ["view()"],
+        "description": "Views - view (Laravel snippet)"
+    },
+    "Views - View::make (Laravel snippet)": {
+        "prefix": "View::make",
+        "body": ["View::make()"],
+        "description": "Views - View::make (Laravel snippet)"
+    },
+    "Views - View::first (Laravel snippet)": {
+        "prefix": "View::first",
+        "body": ["View::first()"],
+        "description": "Views - View::first (Laravel snippet)"
+    },
+    "Views - View::exists (Laravel snippet)": {
+        "prefix": "View::exists",
+        "body": ["View::exists()"],
+        "description": "Views - View::exists (Laravel snippet)"
+    },
+    "Views - View::share (Laravel snippet)": {
+        "prefix": "View::share",
+        "body": ["View::share()"],
+        "description": "Views - View::share (Laravel snippet)"
+    },
+    "Views - View::composer (Laravel snippet)": {
+        "prefix": "View::composer",
+        "body": ["View::composer()"],
+        "description": "Views - View::composer (Laravel snippet)"
+    },
+    "Views - View::creator (Laravel snippet)": {
+        "prefix": "View::creator",
+        "body": ["View::creator()"],
+        "description": "Views - View::creator (Laravel snippet)"
+    }
+}
