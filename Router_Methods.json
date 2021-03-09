@@ -70,9 +70,9 @@
         "body": ["Route::currentRouteAction()"],
         "description": "Accessing The Current Route - Route::currentRouteAction (Laravel snippet)"
     },
-    "URLs For Named Routes (Laravel snippet)": {
+    "URLs For Named Routes - (Laravel snippet)": {
         "prefix": "uses-as",
         "body": ["'uses' => '',", "'as' => ''"],
-        "description": "URLs For Named Routes (Laravel snippet)"
+        "description": "URLs For Named Routes - (Laravel snippet)"
     }
 }
