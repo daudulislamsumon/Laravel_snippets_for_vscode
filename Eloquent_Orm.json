@@ -127,5 +127,10 @@
         "prefix": "ofType",
         "body": ["ofType()"],
         "description": "Eloquent - ofType (Laravel snippet)"
+    },
+    "Eloquent - save (Laravel snippet)": {
+        "prefix": "save",
+        "body": ["save()"],
+        "description": "Eloquent - save (Laravel snippet)"
     }
 }
