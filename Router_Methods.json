@@ -74,5 +74,10 @@
         "prefix": "uses-as",
         "body": ["'uses' => '',", "'as' => ''"],
         "description": "URLs For Named Routes - (Laravel snippet)"
+    },
+    "URLs For Named Routes with middleware - (Laravel snippet)": {
+        "prefix": "uses-as-middleware",
+        "body": ["'uses' => '',", "'as' => '',", "'middleware' => []"],
+        "description": "URLs For Named Routes with middleware - (Laravel snippet)"
     }
 }
