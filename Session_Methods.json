@@ -1,0 +1,66 @@
+{
+    // Laravel snippets for vscode
+    // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
+    // Creation Date: 16/03/2021
+
+    "Session Methods - Session::get (Laravel snippet)": {
+        "prefix": "Session::get",
+        "body": ["Session::get()"],
+        "description": "Session Methods - Session::get (Laravel snippet)"
+    },
+    "Session Methods - Session::put (Laravel snippet)": {
+        "prefix": "Session::put",
+        "body": ["Session::put()"],
+        "description": "Session Methods - Session::put (Laravel snippet)"
+    },
+    "Session Methods - Session::push (Laravel snippet)": {
+        "prefix": "Session::push",
+        "body": ["Session::push()"],
+        "description": "Session Methods - Session::push (Laravel snippet)"
+    },
+    "Session Methods - Session::pull (Laravel snippet)": {
+        "prefix": "Session::pull",
+        "body": ["Session::pull()"],
+        "description": "Session Methods - Session::pull (Laravel snippet)"
+    },
+    "Session Methods - Session::all (Laravel snippet)": {
+        "prefix": "Session::all",
+        "body": ["Session::all()"],
+        "description": "Session Methods - Session::all (Laravel snippet)"
+    },
+    "Session Methods - Session::has (Laravel snippet)": {
+        "prefix": "Session::has",
+        "body": ["Session::has()"],
+        "description": "Session Methods - Session::has (Laravel snippet)"
+    },
+    "Session Methods - Session::forget (Laravel snippet)": {
+        "prefix": "Session::forget",
+        "body": ["Session::forget()"],
+        "description": "Session Methods - Session::forget (Laravel snippet)"
+    },
+    "Session Methods - Session::flush (Laravel snippet)": {
+        "prefix": "Session::flush",
+        "body": ["Session::flush()"],
+        "description": "Session Methods - Session::flush (Laravel snippet)"
+    },
+    "Session Methods - Session::regenerate (Laravel snippet)": {
+        "prefix": "Session::regenerate",
+        "body": ["Session::regenerate()"],
+        "description": "Session Methods - Session::regenerate (Laravel snippet)"
+    },
+    "Session Methods - Session::flash (Laravel snippet)": {
+        "prefix": "Session::flash",
+        "body": ["Session::flash()"],
+        "description": "Session Methods - Session::flash (Laravel snippet)"
+    },
+    "Session Methods - Session::reflash (Laravel snippet)": {
+        "prefix": "Session::reflash",
+        "body": ["Session::reflash()"],
+        "description": "Session Methods - Session::reflash (Laravel snippet)"
+    },
+    "Session Methods - Session::keep (Laravel snippet)": {
+        "prefix": "Session::keep",
+        "body": ["Session::keep()"],
+        "description": "Session Methods - Session::keep (Laravel snippet)"
+    }
+}
