@@ -1,0 +1,306 @@
+{
+    // Laravel snippets for vscode
+    // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
+    // Creation Date: 06/03/2021
+
+    "Database: Query Builder - get (Laravel snippet)": {
+        "prefix": "get",
+        "body": ["get()"],
+        "description": "Database: Query Builder - get (Laravel snippet)"
+    },
+    "Database: Query Builder - where (Laravel snippet)": {
+        "prefix": "where",
+        "body": ["where()"],
+        "description": "Database: Query Builder - where (Laravel snippet)"
+    },
+    "Database: Query Builder - first (Laravel snippet)": {
+        "prefix": "first",
+        "body": ["first()"],
+        "description": "Database: Query Builder - first (Laravel snippet)"
+    },
+    "Database: Query Builder - find (Laravel snippet)": {
+        "prefix": "find",
+        "body": ["find()"],
+        "description": "Database: Query Builder - find (Laravel snippet)"
+    },
+    "Database: Query Builder - pluck (Laravel snippet)": {
+        "prefix": "pluck",
+        "body": ["pluck()"],
+        "description": "Database: Query Builder - pluck (Laravel snippet)"
+    },
+    "Database: Query Builder - orderBy (Laravel snippet)": {
+        "prefix": "orderBy",
+        "body": ["orderBy()"],
+        "description": "Database: Query Builder - orderBy (Laravel snippet)"
+    },
+    "Database: Query Builder - chunk (Laravel snippet)": {
+        "prefix": "chunk",
+        "body": ["chunk()"],
+        "description": "Database: Query Builder - chunk (Laravel snippet)"
+    },
+    "Database: Query Builder - chunkById (Laravel snippet)": {
+        "prefix": "chunkById",
+        "body": ["chunkById()"],
+        "description": "Database: Query Builder - chunkById (Laravel snippet)"
+    },
+    "Database: Query Builder - update (Laravel snippet)": {
+        "prefix": "update",
+        "body": ["update()"],
+        "description": "Database: Query Builder - update (Laravel snippet)"
+    },
+    "Database: Query Builder - avg (Laravel snippet)": {
+        "prefix": "avg",
+        "body": ["avg()"],
+        "description": "Database: Query Builder - avg (Laravel snippet)"
+    },
+    "Database: Query Builder - exists (Laravel snippet)": {
+        "prefix": "exists",
+        "body": ["exists()"],
+        "description": "Database: Query Builder - exists (Laravel snippet)"
+    },
+    "Database: Query Builder - doesntExist (Laravel snippet)": {
+        "prefix": "exists",
+        "body": ["doesntExist()"],
+        "description": "Database: Query Builder - doesntExist (Laravel snippet)"
+    },
+    "Database: Query Builder - select (Laravel snippet)": {
+        "prefix": "select",
+        "body": ["select()"],
+        "description": "Database: Query Builder - select (Laravel snippet)"
+    },
+    "Database: Query Builder - distinct (Laravel snippet)": {
+        "prefix": "distinct",
+        "body": ["distinct()"],
+        "description": "Database: Query Builder - distinct (Laravel snippet)"
+    },
+    "Database: Query Builder - addSelect (Laravel snippet)": {
+        "prefix": "addSelect",
+        "body": ["addSelect()"],
+        "description": "Database: Query Builder - addSelect (Laravel snippet)"
+    },
+    "Database: Query Builder - groupBy (Laravel snippet)": {
+        "prefix": "groupBy",
+        "body": ["groupBy()"],
+        "description": "Database: Query Builder - groupBy (Laravel snippet)"
+    },
+    "Database: Query Builder - selectRaw (Laravel snippet)": {
+        "prefix": "selectRaw",
+        "body": ["selectRaw()"],
+        "description": "Database: Query Builder - selectRaw (Laravel snippet)"
+    },
+    "Database: Query Builder - whereRaw (Laravel snippet)": {
+        "prefix": "whereRaw",
+        "body": ["whereRaw()"],
+        "description": "Database: Query Builder - whereRaw (Laravel snippet)"
+    },
+    "Database: Query Builder - havingRaw (Laravel snippet)": {
+        "prefix": "havingRaw",
+        "body": ["havingRaw()"],
+        "description": "Database: Query Builder - havingRaw (Laravel snippet)"
+    },
+    "Database: Query Builder - orderByRaw (Laravel snippet)": {
+        "prefix": "orderByRaw",
+        "body": ["orderByRaw()"],
+        "description": "Database: Query Builder - orderByRaw (Laravel snippet)"
+    },
+    "Database: Query Builder - groupByRaw (Laravel snippet)": {
+        "prefix": "groupByRaw",
+        "body": ["groupByRaw()"],
+        "description": "Database: Query Builder - groupByRaw (Laravel snippet)"
+    },
+    "Database: Query Builder - join (Laravel snippet)": {
+        "prefix": "join",
+        "body": ["join()"],
+        "description": "Database: Query Builder - join (Laravel snippet)"
+    },
+    "Database: Query Builder - leftJoin (Laravel snippet)": {
+        "prefix": "leftJoin",
+        "body": ["leftJoin()"],
+        "description": "Database: Query Builder - leftJoin (Laravel snippet)"
+    },
+    "Database: Query Builder - rightJoin (Laravel snippet)": {
+        "prefix": "rightJoin",
+        "body": ["rightJoin()"],
+        "description": "Database: Query Builder - rightJoin (Laravel snippet)"
+    },
+    "Database: Query Builder - crossJoin (Laravel snippet)": {
+        "prefix": "crossJoin",
+        "body": ["crossJoin()"],
+        "description": "Database: Query Builder - crossJoin (Laravel snippet)"
+    },
+    "Database: Query Builder - on (Laravel snippet)": {
+        "prefix": "on",
+        "body": ["on()"],
+        "description": "Database: Query Builder - on (Laravel snippet)"
+    },
+    "Database: Query Builder - joinSub (Laravel snippet)": {
+        "prefix": "joinSub",
+        "body": ["joinSub()"],
+        "description": "Database: Query Builder - joinSub (Laravel snippet)"
+    },
+    "Database: Query Builder - whereNull (Laravel snippet)": {
+        "prefix": "whereNull",
+        "body": ["whereNull()"],
+        "description": "Database: Query Builder - whereNull (Laravel snippet)"
+    },
+    "Database: Query Builder - union (Laravel snippet)": {
+        "prefix": "union",
+        "body": ["union()"],
+        "description": "Database: Query Builder - union (Laravel snippet)"
+    },
+    "Database: Query Builder - orWhere (Laravel snippet)": {
+        "prefix": "orWhere",
+        "body": ["orWhere()"],
+        "description": "Database: Query Builder - orWhere (Laravel snippet)"
+    },
+    "Database: Query Builder - whereJsonContains (Laravel snippet)": {
+        "prefix": "whereJsonContains",
+        "body": ["whereJsonContains()"],
+        "description": "Database: Query Builder - whereJsonContains (Laravel snippet)"
+    },
+    "Database: Query Builder - whereJsonLength (Laravel snippet)": {
+        "prefix": "whereJsonLength",
+        "body": ["whereJsonLength()"],
+        "description": "Database: Query Builder - whereJsonLength (Laravel snippet)"
+    },
+    "Database: Query Builder - whereBetween (Laravel snippet)": {
+        "prefix": "whereBetween",
+        "body": ["whereBetween()"],
+        "description": "Database: Query Builder - whereBetween (Laravel snippet)"
+    },
+    "Database: Query Builder - whereNotBetween (Laravel snippet)": {
+        "prefix": "whereNotBetween",
+        "body": ["whereNotBetween()"],
+        "description": "Database: Query Builder - whereNotBetween (Laravel snippet)"
+    },
+    "Database: Query Builder - whereIn (Laravel snippet)": {
+        "prefix": "whereIn",
+        "body": ["whereIn()"],
+        "description": "Database: Query Builder - whereIn (Laravel snippet)"
+    },
+    "Database: Query Builder - whereNotIn (Laravel snippet)": {
+        "prefix": "whereNotIn",
+        "body": ["whereNotIn()"],
+        "description": "Database: Query Builder - whereNotIn (Laravel snippet)"
+    },
+    "Database: Query Builder - whereDate (Laravel snippet)": {
+        "prefix": "whereDate",
+        "body": ["whereDate()"],
+        "description": "Database: Query Builder - whereDate (Laravel snippet)"
+    },
+    "Database: Query Builder - whereMonth (Laravel snippet)": {
+        "prefix": "whereMonth",
+        "body": ["whereMonth()"],
+        "description": "Database: Query Builder - whereMonth (Laravel snippet)"
+    },
+    "Database: Query Builder - whereDay (Laravel snippet)": {
+        "prefix": "whereDay",
+        "body": ["whereDay()"],
+        "description": "Database: Query Builder - whereDay (Laravel snippet)"
+    },
+    "Database: Query Builder - whereYear (Laravel snippet)": {
+        "prefix": "whereYear",
+        "body": ["whereYear()"],
+        "description": "Database: Query Builder - whereYear (Laravel snippet)"
+    },
+    "Database: Query Builder - whereTime (Laravel snippet)": {
+        "prefix": "whereTime",
+        "body": ["whereTime()"],
+        "description": "Database: Query Builder - whereTime (Laravel snippet)"
+    },
+    "Database: Query Builder - whereColumn (Laravel snippet)": {
+        "prefix": "whereColumn",
+        "body": ["whereColumn()"],
+        "description": "Database: Query Builder - whereColumn (Laravel snippet)"
+    },
+    "Database: Query Builder - latest (Laravel snippet)": {
+        "prefix": "latest",
+        "body": ["latest()"],
+        "description": "Database: Query Builder - latest (Laravel snippet)"
+    },
+    "Database: Query Builder - inRandomOrder (Laravel snippet)": {
+        "prefix": "inRandomOrder",
+        "body": ["inRandomOrder()"],
+        "description": "Database: Query Builder - inRandomOrder (Laravel snippet)"
+    },
+    "Database: Query Builder - reorder (Laravel snippet)": {
+        "prefix": "reorder",
+        "body": ["reorder()"],
+        "description": "Database: Query Builder - reorder (Laravel snippet)"
+    },
+    "Database: Query Builder - having (Laravel snippet)": {
+        "prefix": "having",
+        "body": ["having()"],
+        "description": "Database: Query Builder - having (Laravel snippet)"
+    },
+    "Database: Query Builder - offset (Laravel snippet)": {
+        "prefix": "offset",
+        "body": ["offset()"],
+        "description": "Database: Query Builder - offset (Laravel snippet)"
+    },
+    "Database: Query Builder - limit (Laravel snippet)": {
+        "prefix": "limit",
+        "body": ["limit()"],
+        "description": "Database: Query Builder - limit (Laravel snippet)"
+    },
+    "Database: Query Builder - insert (Laravel snippet)": {
+        "prefix": "insert",
+        "body": ["insert()"],
+        "description": "Database: Query Builder - insert (Laravel snippet)"
+    },
+    "Database: Query Builder - insertOrIgnore (Laravel snippet)": {
+        "prefix": "insertOrIgnore",
+        "body": ["insertOrIgnore()"],
+        "description": "Database: Query Builder - insertOrIgnore (Laravel snippet)"
+    },
+    "Database: Query Builder - insertGetId (Laravel snippet)": {
+        "prefix": "insertGetId",
+        "body": ["insertGetId()"],
+        "description": "Database: Query Builder - insertGetId (Laravel snippet)"
+    },
+    "Database: Query Builder - upsert (Laravel snippet)": {
+        "prefix": "upsert",
+        "body": ["upsert()"],
+        "description": "Database: Query Builder - upsert (Laravel snippet)"
+    },
+    "Database: Query Builder - increment (Laravel snippet)": {
+        "prefix": "increment",
+        "body": ["increment()"],
+        "description": "Database: Query Builder - increment (Laravel snippet)"
+    },
+    "Database: Query Builder - decrement (Laravel snippet)": {
+        "prefix": "decrement",
+        "body": ["decrement()"],
+        "description": "Database: Query Builder - decrement (Laravel snippet)"
+    },
+    "Database: Query Builder - delete (Laravel snippet)": {
+        "prefix": "delete",
+        "body": ["delete()"],
+        "description": "Database: Query Builder - delete (Laravel snippet)"
+    },
+    "Database: Query Builder - truncate (Laravel snippet)": {
+        "prefix": "truncate",
+        "body": ["truncate()"],
+        "description": "Database: Query Builder - truncate (Laravel snippet)"
+    },
+    "Database: Query Builder - sharedLock (Laravel snippet)": {
+        "prefix": "sharedLock",
+        "body": ["sharedLock()"],
+        "description": "Database: Query Builder - sharedLock (Laravel snippet)"
+    },
+    "Database: Query Builder - lockForUpdate (Laravel snippet)": {
+        "prefix": "lockForUpdate",
+        "body": ["lockForUpdate()"],
+        "description": "Database: Query Builder - lockForUpdate (Laravel snippet)"
+    },
+    "Database: Query Builder - dd (Laravel snippet)": {
+        "prefix": "dd",
+        "body": ["dd()"],
+        "description": "Database: Query Builder - dd (Laravel snippet)"
+    },
+    "Database: Query Builder - dump (Laravel snippet)": {
+        "prefix": "dump",
+        "body": ["dump()"],
+        "description": "Database: Query Builder - dump (Laravel snippet)"
+    }
+}
