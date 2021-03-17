@@ -1,0 +1,56 @@
+{
+    // Laravel snippets for vscode
+    // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
+    // Creation Date: 17/03/2021
+
+    "The $loop variable - $loop->index (Laravel snippet)": {
+        "prefix": "$loop->index",
+        "body": ["\\$loop->index"],
+        "description": "The $loop variable - $loop->index (Laravel snippet)"
+    },
+    "The $loop variable - $loop->iteration (Laravel snippet)": {
+        "prefix": "$loop->iteration",
+        "body": ["\\$loop->iteration"],
+        "description": "The $loop variable - $loop->iteration (Laravel snippet)"
+    },
+    "The $loop variable - $loop->remaining (Laravel snippet)": {
+        "prefix": "$loop->remaining",
+        "body": ["\\$loop->remaining"],
+        "description": "The $loop variable - $loop->remaining (Laravel snippet)"
+    },
+    "The $loop variable - $loop->count (Laravel snippet)": {
+        "prefix": "$loop->count",
+        "body": ["\\$loop->count"],
+        "description": "The $loop variable - $loop->count (Laravel snippet)"
+    },
+    "The $loop variable - $loop->first (Laravel snippet)": {
+        "prefix": "$loop->first",
+        "body": ["\\$loop->first"],
+        "description": "The $loop variable - $loop->first (Laravel snippet)"
+    },
+    "The $loop variable - $loop->last (Laravel snippet)": {
+        "prefix": "$loop->last",
+        "body": ["\\$loop->last"],
+        "description": "The $loop variable - $loop->last (Laravel snippet)"
+    },
+    "The $loop variable - $loop->even (Laravel snippet)": {
+        "prefix": "$loop->even",
+        "body": ["\\$loop->even"],
+        "description": "The $loop variable - $loop->even (Laravel snippet)"
+    },
+    "The $loop variable - $loop->odd (Laravel snippet)": {
+        "prefix": "$loop->odd",
+        "body": ["\\$loop->odd"],
+        "description": "The $loop variable - $loop->odd (Laravel snippet)"
+    },
+    "The $loop variable - $loop->depth (Laravel snippet)": {
+        "prefix": "$loop->depth",
+        "body": ["\\$loop->depth"],
+        "description": "The $loop variable - $loop->depth (Laravel snippet)"
+    },
+    "The $loop variable - $loop->parent (Laravel snippet)": {
+        "prefix": "$loop->parent",
+        "body": ["\\$loop->parent"],
+        "description": "The $loop variable - $loop->parent (Laravel snippet)"
+    }
+}
