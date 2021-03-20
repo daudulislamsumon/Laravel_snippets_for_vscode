@@ -4,7 +4,7 @@ Laravel_snippets_for_vscode is a collection of usefull snippets with Laravel for
 
 ## Installation
 
-Download the package or copy the code from Blade_Directive.json , Session_Methods.json files and paste it to Blade.json & Router_Methods.json, Database_Query_Builder.json, Eloquent_Orm.json, Loop_Variables.json to php.json file.
+Download the package or copy the code from Blade_Directive.json , Session_Methods.json files and paste it to Blade.json & Router_Methods.json, Database_Query_Builder.json, Eloquent_Orm.json, Loop_Variables.json, Validation.json to php.json file.
 
 ## Usage
 

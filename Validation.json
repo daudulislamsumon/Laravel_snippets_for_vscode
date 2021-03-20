@@ -1,0 +1,111 @@
+{
+    // Laravel snippets for vscode
+    // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
+    // Creation Date: 20/03/2021
+
+    "Validation Rules  - date (Laravel snippet)": {
+        "prefix": "|date",
+        "body": ["|date"],
+        "description": "Validation Rules  - date (Laravel snippet)"
+    },
+    "Validation Rules  - accepted (Laravel snippet)": {
+        "prefix": "|accepted",
+        "body": ["|accepted"],
+        "description": "Validation Rules  - accepted (Laravel snippet)"
+    },
+    "Validation Rules  - active_url (Laravel snippet)": {
+        "prefix": "|active_url",
+        "body": ["|active_url"],
+        "description": "Validation Rules  - active_url (Laravel snippet)"
+    },
+    "Validation Rules  - after (Laravel snippet)": {
+        "prefix": "|after",
+        "body": ["|after"],
+        "description": "Validation Rules  - after (Laravel snippet)"
+    },
+    "Validation Rules  - after_or_equal (Laravel snippet)": {
+        "prefix": "|after_or_equal",
+        "body": ["|after_or_equal"],
+        "description": "Validation Rules  - after_or_equal (Laravel snippet)"
+    },
+    "Validation Rules  - alpha (Laravel snippet)": {
+        "prefix": "|alpha",
+        "body": ["|alpha"],
+        "description": "Validation Rules  - alpha (Laravel snippet)"
+    },
+    "Validation Rules  - alpha_dash (Laravel snippet)": {
+        "prefix": "|alpha_dash",
+        "body": ["|alpha_dash"],
+        "description": "Validation Rules  - alpha_dash (Laravel snippet)"
+    },
+    "Validation Rules  - alpha_num (Laravel snippet)": {
+        "prefix": "|alpha_num",
+        "body": ["|alpha_num"],
+        "description": "Validation Rules  - alpha_num (Laravel snippet)"
+    },
+    "Validation Rules  - array (Laravel snippet)": {
+        "prefix": "|array",
+        "body": ["|array"],
+        "description": "Validation Rules  - array (Laravel snippet)"
+    },
+    "Validation Rules  - bail (Laravel snippet)": {
+        "prefix": "|bail",
+        "body": ["|bail"],
+        "description": "Validation Rules  - bail (Laravel snippet)"
+    },
+    "Validation Rules  - before (Laravel snippet)": {
+        "prefix": "|before",
+        "body": ["|before"],
+        "description": "Validation Rules  - before (Laravel snippet)"
+    },
+    "Validation Rules  - before_or_equal (Laravel snippet)": {
+        "prefix": "|before_or_equal",
+        "body": ["|before_or_equal"],
+        "description": "Validation Rules  - before_or_equal (Laravel snippet)"
+    },
+    "Validation Rules  - between (Laravel snippet)": {
+        "prefix": "|between",
+        "body": ["|between"],
+        "description": "Validation Rules  - between (Laravel snippet)"
+    },
+    "Validation Rules  - confirmed (Laravel snippet)": {
+        "prefix": "|confirmed",
+        "body": ["|confirmed"],
+        "description": "Validation Rules  - confirmed (Laravel snippet)"
+    },
+    "Validation Rules  - date_equals (Laravel snippet)": {
+        "prefix": "|date_equals",
+        "body": ["|date_equals"],
+        "description": "Validation Rules  - date_equals (Laravel snippet)"
+    },
+    "Validation Rules  - date_format (Laravel snippet)": {
+        "prefix": "|date_format",
+        "body": ["|date_format"],
+        "description": "Validation Rules  - date_format (Laravel snippet)"
+    },
+    "Validation Rules  - digits (Laravel snippet)": {
+        "prefix": "|digits",
+        "body": ["|digits"],
+        "description": "Validation Rules  - digits (Laravel snippet)"
+    },
+    "Validation Rules  - digits_between (Laravel snippet)": {
+        "prefix": "|digits_between",
+        "body": ["|digits_between"],
+        "description": "Validation Rules  - digits_between (Laravel snippet)"
+    },
+    "Validation Rules  - dimensions (Laravel snippet)": {
+        "prefix": "|dimensions",
+        "body": ["|dimensions"],
+        "description": "Validation Rules  - dimensions (Laravel snippet)"
+    },
+    "Validation Rules  - max (Laravel snippet)": {
+        "prefix": "|max",
+        "body": ["|max"],
+        "description": "Validation Rules  - max (Laravel snippet)"
+    },
+    "Validation Rules  - min (Laravel snippet)": {
+        "prefix": "|min",
+        "body": ["|min"],
+        "description": "Validation Rules  - min (Laravel snippet)"
+    }
+}
