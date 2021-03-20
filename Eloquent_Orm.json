@@ -2,6 +2,7 @@
     // Laravel snippets for vscode
     // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
     // Creation Date: 07/03/2021
+    // Creation Date: 19/03/2021
 
     "Eloquent - fresh (Laravel snippet)": {
         "prefix": "fresh",
@@ -132,5 +133,15 @@
         "prefix": "save",
         "body": ["save()"],
         "description": "Eloquent - save (Laravel snippet)"
+    },
+    "Eloquent - User::all (Laravel snippet)": {
+        "prefix": "::all",
+        "body": ["::all()"],
+        "description": "Eloquent - User::all (Laravel snippet)"
+    },
+    "Eloquent - User::find (Laravel snippet)": {
+        "prefix": "::find",
+        "body": ["::find()"],
+        "description": "Eloquent - User::find (Laravel snippet)"
     }
 }
