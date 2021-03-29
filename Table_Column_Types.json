@@ -1,0 +1,149 @@
+{
+    // Laravel snippets for vscode
+    // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
+    // Creation Date: 29/03/2021
+    // *********************************************************
+    // =========== Available Table Column Types ================
+    // *********************************************************
+
+    "Available Column Types - bigIncrements (Laravel snippet)": {
+        "prefix": "->bigIncrements",
+        "body": ["->bigIncrements"],
+        "description": "Available Column Types - bigIncrements (Laravel snippet)"
+    },
+    "Available Column Types - bigInteger (Laravel snippet)": {
+        "prefix": "->bigInteger",
+        "body": ["->bigInteger"],
+        "description": "Available Column Types - bigInteger (Laravel snippet)"
+    },
+    "Available Column Types - binary (Laravel snippet)": {
+        "prefix": "->binary",
+        "body": ["->binary"],
+        "description": "Available Column Types - binary (Laravel snippet)"
+    },
+    "Available Column Types - boolean (Laravel snippet)": {
+        "prefix": "->boolean",
+        "body": ["->boolean"],
+        "description": "Available Column Types - boolean (Laravel snippet)"
+    },
+    "Available Column Types - char (Laravel snippet)": {
+        "prefix": "->char",
+        "body": ["->char"],
+        "description": "Available Column Types - char (Laravel snippet)"
+    },
+    "Available Column Types - dateTimeTz (Laravel snippet)": {
+        "prefix": "->dateTimeTz",
+        "body": ["->dateTimeTz"],
+        "description": "Available Column Types - dateTimeTz (Laravel snippet)"
+    },
+    "Available Column Types - dateTime (Laravel snippet)": {
+        "prefix": "->dateTime",
+        "body": ["->dateTime"],
+        "description": "Available Column Types - dateTime (Laravel snippet)"
+    },
+    "Available Column Types - date (Laravel snippet)": {
+        "prefix": "->date",
+        "body": ["->date"],
+        "description": "Available Column Types - date (Laravel snippet)"
+    },
+    "Available Column Types - decimal (Laravel snippet)": {
+        "prefix": "->decimal",
+        "body": ["->decimal"],
+        "description": "Available Column Types - decimal (Laravel snippet)"
+    },
+    "Available Column Types - double (Laravel snippet)": {
+        "prefix": "->double",
+        "body": ["->double"],
+        "description": "Available Column Types - double (Laravel snippet)"
+    },
+    "Available Column Types - float (Laravel snippet)": {
+        "prefix": "->float",
+        "body": ["->float"],
+        "description": "Available Column Types - float (Laravel snippet)"
+    },
+    "Available Column Types - foreignId (Laravel snippet)": {
+        "prefix": "->foreignId",
+        "body": ["->foreignId"],
+        "description": "Available Column Types - foreignId (Laravel snippet)"
+    },
+    "Available Column Types - id (Laravel snippet)": {
+        "prefix": "->id",
+        "body": ["->id"],
+        "description": "Available Column Types - id (Laravel snippet)"
+    },
+    "Available Column Types - integer (Laravel snippet)": {
+        "prefix": "->integer",
+        "body": ["->integer"],
+        "description": "Available Column Types - integer (Laravel snippet)"
+    },
+    "Available Column Types - lineString (Laravel snippet)": {
+        "prefix": "->lineString",
+        "body": ["->lineString"],
+        "description": "Available Column Types - lineString (Laravel snippet)"
+    },
+    "Available Column Types - longText (Laravel snippet)": {
+        "prefix": "->longText",
+        "body": ["->longText"],
+        "description": "Available Column Types - longText (Laravel snippet)"
+    },
+    "Available Column Types - mediumIncrements (Laravel snippet)": {
+        "prefix": "->mediumIncrements",
+        "body": ["->mediumIncrements"],
+        "description": "Available Column Types - mediumIncrements (Laravel snippet)"
+    },
+    "Available Column Types - mediumInteger (Laravel snippet)": {
+        "prefix": "->mediumInteger",
+        "body": ["->mediumInteger"],
+        "description": "Available Column Types - mediumInteger (Laravel snippet)"
+    },
+    "Available Column Types - mediumText (Laravel snippet)": {
+        "prefix": "->mediumText",
+        "body": ["->mediumText"],
+        "description": "Available Column Types - mediumText (Laravel snippet)"
+    },
+    "Available Column Types - smallIncrements (Laravel snippet)": {
+        "prefix": "->smallIncrements",
+        "body": ["->smallIncrements"],
+        "description": "Available Column Types - smallIncrements (Laravel snippet)"
+    },
+    "Available Column Types - smallInteger (Laravel snippet)": {
+        "prefix": "->smallInteger",
+        "body": ["->smallInteger"],
+        "description": "Available Column Types - smallInteger (Laravel snippet)"
+    },
+    "Available Column Types - string (Laravel snippet)": {
+        "prefix": "->string",
+        "body": ["->string"],
+        "description": "Available Column Types - string (Laravel snippet)"
+    },
+    "Available Column Types - text (Laravel snippet)": {
+        "prefix": "->text",
+        "body": ["->text"],
+        "description": "Available Column Types - text (Laravel snippet)"
+    },
+    "Available Column Types - time (Laravel snippet)": {
+        "prefix": "->time",
+        "body": ["->time"],
+        "description": "Available Column Types - time (Laravel snippet)"
+    },
+    "Available Column Types - timestamp (Laravel snippet)": {
+        "prefix": "->timestamp",
+        "body": ["->timestamp"],
+        "description": "Available Column Types - timestamp (Laravel snippet)"
+    },
+    "Available Column Types - timestamps (Laravel snippet)": {
+        "prefix": "->timestamps",
+        "body": ["->timestamps"],
+        "description": "Available Column Types - timestamps (Laravel snippet)"
+    },
+    "Available Column Types - tinyIncrements (Laravel snippet)": {
+        "prefix": "->tinyIncrements",
+        "body": ["->tinyIncrements"],
+        "description": "Available Column Types - tinyIncrements (Laravel snippet)"
+    },
+    "Available Column Types - tinyInteger (Laravel snippet)": {
+        "prefix": "->tinyInteger",
+        "body": ["->tinyInteger"],
+        "description": "Available Column Types - tinyInteger (Laravel snippet)"
+    }
+}
