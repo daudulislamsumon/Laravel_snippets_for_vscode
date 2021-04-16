@@ -1,0 +1,119 @@
+{
+    // Laravel snippets for vscode
+    // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
+    // Creation Date: 17/04/2021
+    // *********************************************************
+    // ===================== Eloquent ==========================
+    // *********************************************************
+
+    "Eloquent - ->fresh (Laravel snippet)": {
+        "prefix": "->fresh",
+        "body": ["->fresh()"],
+        "description": "Eloquent - ->fresh (Laravel snippet)"
+    },
+    "Eloquent - ->reject (Laravel snippet)": {
+        "prefix": "->reject",
+        "body": ["->reject()"],
+        "description": "Eloquent - ->reject (Laravel snippet)"
+    },
+    "Eloquent - ->chunkById (Laravel snippet)": {
+        "prefix": "->chunkById",
+        "body": ["->chunkById()"],
+        "description": "Eloquent - ->chunkById (Laravel snippet)"
+    },
+    "Eloquent - ->lazyById (Laravel snippet)": {
+        "prefix": "->lazyById",
+        "body": ["->lazyById()"],
+        "description": "Eloquent - ->lazyById (Laravel snippet)"
+    },
+    "Eloquent - ->each (Laravel snippet)": {
+        "prefix": "->each",
+        "body": ["->each"],
+        "description": "Eloquent - ->each (Laravel snippet)"
+    },
+    "Eloquent - ->update (Laravel snippet)": {
+        "prefix": "->update",
+        "body": ["->update()"],
+        "description": "Eloquent - ->update (Laravel snippet)"
+    },
+    "Eloquent - ->filter (Laravel snippet)": {
+        "prefix": "->filter",
+        "body": ["->filter()"],
+        "description": "Eloquent - ->filter (Laravel snippet)"
+    },
+    "Eloquent - ->whereColumn (Laravel snippet)": {
+        "prefix": "->whereColumn",
+        "body": ["->whereColumn()"],
+        "description": "Eloquent - ->whereColumn (Laravel snippet)"
+    },
+    "Eloquent - ->orderByDesc (Laravel snippet)": {
+        "prefix": "->orderByDesc",
+        "body": ["->orderByDesc()"],
+        "description": "Eloquent - ->orderByDesc (Laravel snippet)"
+    },
+    "Eloquent - ->limit (Laravel snippet)": {
+        "prefix": "->limit",
+        "body": ["->limit()"],
+        "description": "Eloquent - ->limit (Laravel snippet)"
+    },
+    "Eloquent - ->save (Laravel snippet)": {
+        "prefix": "->save",
+        "body": ["->save()"],
+        "description": "Eloquent - ->save (Laravel snippet)"
+    },
+    "Eloquent - ->isDirty (Laravel snippet)": {
+        "prefix": "->isDirty",
+        "body": ["->isDirty()"],
+        "description": "Eloquent - ->isDirty (Laravel snippet)"
+    },
+    "Eloquent - ->isClean (Laravel snippet)": {
+        "prefix": "->isClean",
+        "body": ["->isClean()"],
+        "description": "Eloquent - ->isClean (Laravel snippet)"
+    },
+    "Eloquent - ->wasChanged  (Laravel snippet)": {
+        "prefix": "->wasChanged",
+        "body": ["->wasChanged()"],
+        "description": "Eloquent - ->wasChanged  (Laravel snippet)"
+    },
+    "Eloquent - ->getOriginal (Laravel snippet)": {
+        "prefix": "->getOriginal",
+        "body": ["->getOriginal()"],
+        "description": "Eloquent - ->getOriginal (Laravel snippet)"
+    },
+    "Eloquent - ->delete (Laravel snippet)": {
+        "prefix": "->delete",
+        "body": ["->delete()"],
+        "description": "Eloquent - ->delete (Laravel snippet)"
+    },
+    "Eloquent - ->softDeletes (Laravel snippet)": {
+        "prefix": "->softDeletes",
+        "body": ["->softDeletes()"],
+        "description": "Eloquent - ->softDeletes (Laravel snippet)"
+    },
+    "Eloquent - ->dropSoftDeletes (Laravel snippet)": {
+        "prefix": "->dropSoftDeletes",
+        "body": ["->dropSoftDeletes()"],
+        "description": "Eloquent - ->dropSoftDeletes (Laravel snippet)"
+    },
+    "Eloquent - ->trashed (Laravel snippet)": {
+        "prefix": "->trashed",
+        "body": ["->trashed()"],
+        "description": "Eloquent - ->trashed (Laravel snippet)"
+    },
+    "Eloquent - ->restore (Laravel snippet)": {
+        "prefix": "->restore",
+        "body": ["->restore()"],
+        "description": "Eloquent - ->restore (Laravel snippet)"
+    },
+    "Eloquent - ->history (Laravel snippet)": {
+        "prefix": "->history",
+        "body": ["->history()"],
+        "description": "Eloquent - ->history (Laravel snippet)"
+    },
+    "Eloquent - ->forceDelete (Laravel snippet)": {
+        "prefix": "->forceDelete",
+        "body": ["->forceDelete()"],
+        "description": "Eloquent - ->forceDelete (Laravel snippet)"
+    }
+}
