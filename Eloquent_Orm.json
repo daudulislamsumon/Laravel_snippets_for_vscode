@@ -2,146 +2,155 @@
     // Laravel snippets for vscode
     // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
     // Creation Date: 07/03/2021
-    // Creation Date: 19/03/2021
+    // Update Date: 19/03/2021
+    // Update Date: 16/04/2021
+    // *********************************************************
+    // ==================== Eloquent ORM =======================
+    // *********************************************************
 
-    "Eloquent - fresh (Laravel snippet)": {
+    "Eloquent ORM - fresh (Laravel snippet)": {
         "prefix": "fresh",
         "body": ["fresh()"],
-        "description": "Eloquent - fresh (Laravel snippet)"
+        "description": "Eloquent ORM - fresh (Laravel snippet)"
     },
-    "Eloquent - reject (Laravel snippet)": {
+    "Eloquent ORM - reject (Laravel snippet)": {
         "prefix": "reject",
         "body": ["reject()"],
-        "description": "Eloquent - reject (Laravel snippet)"
+        "description": "Eloquent ORM - reject (Laravel snippet)"
     },
-    "Eloquent - cursor (Laravel snippet)": {
+    "Eloquent ORM - cursor (Laravel snippet)": {
         "prefix": "cursor",
         "body": ["cursor()"],
-        "description": "Eloquent - cursor (Laravel snippet)"
+        "description": "Eloquent ORM - cursor (Laravel snippet)"
     },
-    "Eloquent - findOrFail (Laravel snippet)": {
+    "Eloquent ORM - findOrFail (Laravel snippet)": {
         "prefix": "findOrFail",
         "body": ["findOrFail()"],
-        "description": "Eloquent - findOrFail (Laravel snippet)"
+        "description": "Eloquent ORM - findOrFail (Laravel snippet)"
     },
-    "Eloquent - firstOrCreate (Laravel snippet)": {
+    "Eloquent ORM - firstOrCreate (Laravel snippet)": {
         "prefix": "firstOrCreate",
         "body": ["firstOrCreate()"],
-        "description": "Eloquent - firstOrCreate (Laravel snippet)"
+        "description": "Eloquent ORM - firstOrCreate (Laravel snippet)"
     },
-    "Eloquent - firstOrNew (Laravel snippet)": {
+    "Eloquent ORM - firstOrNew (Laravel snippet)": {
         "prefix": "firstOrNew",
         "body": ["firstOrNew()"],
-        "description": "Eloquent - firstOrNew (Laravel snippet)"
+        "description": "Eloquent ORM - firstOrNew (Laravel snippet)"
     },
-    "Eloquent - create (Laravel snippet)": {
+    "Eloquent ORM - create (Laravel snippet)": {
         "prefix": "create",
         "body": ["create()"],
-        "description": "Eloquent - create (Laravel snippet)"
+        "description": "Eloquent ORM - create (Laravel snippet)"
     },
-    "Eloquent - isDirty (Laravel snippet)": {
+    "Eloquent ORM - isDirty (Laravel snippet)": {
         "prefix": "isDirty",
         "body": ["isDirty()"],
-        "description": "Eloquent - isDirty (Laravel snippet)"
+        "description": "Eloquent ORM - isDirty (Laravel snippet)"
     },
-    "Eloquent - isClean (Laravel snippet)": {
+    "Eloquent ORM - isClean (Laravel snippet)": {
         "prefix": "isClean",
         "body": ["isClean()"],
-        "description": "Eloquent - isClean (Laravel snippet)"
+        "description": "Eloquent ORM - isClean (Laravel snippet)"
     },
-    "Eloquent - wasChanged (Laravel snippet)": {
+    "Eloquent ORM - wasChanged (Laravel snippet)": {
         "prefix": "wasChanged",
         "body": ["wasChanged()"],
-        "description": "Eloquent - wasChanged (Laravel snippet)"
+        "description": "Eloquent ORM - wasChanged (Laravel snippet)"
     },
-    "Eloquent - getOriginal (Laravel snippet)": {
+    "Eloquent ORM - getOriginal (Laravel snippet)": {
         "prefix": "getOriginal",
         "body": ["getOriginal()"],
-        "description": "Eloquent - getOriginal (Laravel snippet)"
+        "description": "Eloquent ORM - getOriginal (Laravel snippet)"
     },
-    "Eloquent - softDeletes (Laravel snippet)": {
+    "Eloquent ORM - softDeletes (Laravel snippet)": {
         "prefix": "softDeletes",
         "body": ["softDeletes()"],
-        "description": "Eloquent - softDeletes (Laravel snippet)"
+        "description": "Eloquent ORM - softDeletes (Laravel snippet)"
     },
-    "Eloquent - dropSoftDeletes (Laravel snippet)": {
+    "Eloquent ORM - dropSoftDeletes (Laravel snippet)": {
         "prefix": "dropSoftDeletes",
         "body": ["dropSoftDeletes()"],
-        "description": "Eloquent - dropSoftDeletes (Laravel snippet)"
+        "description": "Eloquent ORM - dropSoftDeletes (Laravel snippet)"
     },
-    "Eloquent - trashed (Laravel snippet)": {
+    "Eloquent ORM - trashed (Laravel snippet)": {
         "prefix": "trashed",
         "body": ["trashed()"],
-        "description": "Eloquent - trashed (Laravel snippet)"
+        "description": "Eloquent ORM - trashed (Laravel snippet)"
     },
-    "Eloquent - restore (Laravel snippet)": {
+    "Eloquent ORM - restore (Laravel snippet)": {
         "prefix": "restore",
         "body": ["restore()"],
-        "description": "Eloquent - restore (Laravel snippet)"
+        "description": "Eloquent ORM - restore (Laravel snippet)"
     },
-    "Eloquent - history (Laravel snippet)": {
+    "Eloquent ORM - history (Laravel snippet)": {
         "prefix": "history",
         "body": ["history()"],
-        "description": "Eloquent - history (Laravel snippet)"
+        "description": "Eloquent ORM - history (Laravel snippet)"
     },
-    "Eloquent - forceDelete (Laravel snippet)": {
+    "Eloquent ORM - forceDelete (Laravel snippet)": {
         "prefix": "forceDelete",
         "body": ["forceDelete()"],
-        "description": "Eloquent - forceDelete (Laravel snippet)"
+        "description": "Eloquent ORM - forceDelete (Laravel snippet)"
     },
-    "Eloquent - withTrashed (Laravel snippet)": {
+    "Eloquent ORM - withTrashed (Laravel snippet)": {
         "prefix": "withTrashed",
         "body": ["withTrashed()"],
-        "description": "Eloquent - withTrashed (Laravel snippet)"
+        "description": "Eloquent ORM - withTrashed (Laravel snippet)"
     },
-    "Eloquent - onlyTrashed (Laravel snippet)": {
+    "Eloquent ORM - onlyTrashed (Laravel snippet)": {
         "prefix": "onlyTrashed",
         "body": ["onlyTrashed()"],
-        "description": "Eloquent - onlyTrashed (Laravel snippet)"
+        "description": "Eloquent ORM - onlyTrashed (Laravel snippet)"
     },
-    "Eloquent - replicate (Laravel snippet)": {
+    "Eloquent ORM - replicate (Laravel snippet)": {
         "prefix": "replicate",
         "body": ["replicate()"],
-        "description": "Eloquent - replicate (Laravel snippet)"
+        "description": "Eloquent ORM - replicate (Laravel snippet)"
     },
-    "Eloquent - fill (Laravel snippet)": {
+    "Eloquent ORM - fill (Laravel snippet)": {
         "prefix": "fill",
         "body": ["fill()"],
-        "description": "Eloquent - fill (Laravel snippet)"
+        "description": "Eloquent ORM - fill (Laravel snippet)"
     },
-    "Eloquent - addGlobalScope (Laravel snippet)": {
+    "Eloquent ORM - addGlobalScope (Laravel snippet)": {
         "prefix": "addGlobalScope",
         "body": ["addGlobalScope()"],
-        "description": "Eloquent - addGlobalScope (Laravel snippet)"
+        "description": "Eloquent ORM - addGlobalScope (Laravel snippet)"
     },
-    "Eloquent - withoutGlobalScope (Laravel snippet)": {
+    "Eloquent ORM - withoutGlobalScope (Laravel snippet)": {
         "prefix": "withoutGlobalScope",
         "body": ["withoutGlobalScope()"],
-        "description": "Eloquent - withoutGlobalScope (Laravel snippet)"
+        "description": "Eloquent ORM - withoutGlobalScope (Laravel snippet)"
     },
-    "Eloquent - popular (Laravel snippet)": {
+    "Eloquent ORM - popular (Laravel snippet)": {
         "prefix": "popular",
         "body": ["popular()"],
-        "description": "Eloquent - popular (Laravel snippet)"
+        "description": "Eloquent ORM - popular (Laravel snippet)"
     },
-    "Eloquent - ofType (Laravel snippet)": {
+    "Eloquent ORM - ofType (Laravel snippet)": {
         "prefix": "ofType",
         "body": ["ofType()"],
-        "description": "Eloquent - ofType (Laravel snippet)"
+        "description": "Eloquent ORM - ofType (Laravel snippet)"
     },
-    "Eloquent - save (Laravel snippet)": {
+    "Eloquent ORM - save (Laravel snippet)": {
         "prefix": "save",
         "body": ["save()"],
-        "description": "Eloquent - save (Laravel snippet)"
+        "description": "Eloquent ORM - save (Laravel snippet)"
     },
-    "Eloquent - User::all (Laravel snippet)": {
+    "Eloquent ORM - User::all (Laravel snippet)": {
         "prefix": "::all",
         "body": ["::all()"],
-        "description": "Eloquent - User::all (Laravel snippet)"
+        "description": "Eloquent ORM - User::all (Laravel snippet)"
     },
-    "Eloquent - User::find (Laravel snippet)": {
+    "Eloquent ORM - User::find (Laravel snippet)": {
         "prefix": "::find",
         "body": ["::find()"],
-        "description": "Eloquent - User::find (Laravel snippet)"
+        "description": "Eloquent ORM - User::find (Laravel snippet)"
+    },
+    "Eloquent ORM - User::::where (Laravel snippet)": {
+        "prefix": "::where",
+        "body": ["::where()"],
+        "description": "Eloquent ORM - User::::where (Laravel snippet)"
     }
 }
