@@ -2,6 +2,9 @@
     // Laravel snippets for vscode
     // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
     // Creation Date: 09/03/2021
+    // *********************************************************
+    // ======================= Views ===========================
+    // *********************************************************    
 
     "Views - view (Laravel snippet)": {
         "prefix": "view",

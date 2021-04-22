@@ -2,6 +2,9 @@
     // Laravel snippets for vscode
     // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
     // Creation Date: 17/03/2021
+    // *********************************************************
+    // ================== Loop Variables =======================
+    // *********************************************************
 
     "The $loop variable - $loop->index (Laravel snippet)": {
         "prefix": "$loop->index",

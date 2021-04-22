@@ -1,0 +1,454 @@
+{
+    // Laravel snippets for vscode
+    // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
+    // Creation Date: 20/04/2021
+    // *********************************************************
+    // ==================== Collection Methods =================
+    // *********************************************************
+
+    "Available Collection Methods - first() (Laravel snippet)": {
+        "prefix": "->first",
+        "body": ["->first()"],
+        "description": "Available Collection Methods - first() (Laravel snippet)"
+    },
+    "Available Collection Methods - get() (Laravel snippet)": {
+        "prefix": "->get",
+        "body": ["->get()"],
+        "description": "Available Collection Methods - get() (Laravel snippet)"
+    },
+    "Available Collection Methods - all() (Laravel snippet)": {
+        "prefix": "->all",
+        "body": ["->all()"],
+        "description": "Available Collection Methods - all() (Laravel snippet)"
+    },
+    "Available Collection Methods - has() (Laravel snippet)": {
+        "prefix": "->has",
+        "body": ["->has()"],
+        "description": "Available Collection Methods - has() (Laravel snippet)"
+    },
+    "Available Collection Methods - average() (Laravel snippet)": {
+        "prefix": "->average",
+        "body": ["->average()"],
+        "description": "Available Collection Methods - average() (Laravel snippet)"
+    },
+    "Available Collection Methods - chunk() (Laravel snippet)": {
+        "prefix": "->chunk",
+        "body": ["->chunk()"],
+        "description": "Available Collection Methods - chunk() (Laravel snippet)"
+    },
+    "Available Collection Methods - chunkWhile() (Laravel snippet)": {
+        "prefix": "->chunkWhile",
+        "body": ["->chunkWhile()"],
+        "description": "Available Collection Methods - chunkWhile() (Laravel snippet)"
+    },
+    "Available Collection Methods - collapse() (Laravel snippet)": {
+        "prefix": "->collapse",
+        "body": ["->collapse()"],
+        "description": "Available Collection Methods - collapse() (Laravel snippet)"
+    },
+    "Available Collection Methods - combine() (Laravel snippet)": {
+        "prefix": "->combine",
+        "body": ["->combine()"],
+        "description": "Available Collection Methods - combine() (Laravel snippet)"
+    },
+    "Available Collection Methods - collect() (Laravel snippet)": {
+        "prefix": "->collect",
+        "body": ["->collect()"],
+        "description": "Available Collection Methods - collect() (Laravel snippet)"
+    },
+    "Available Collection Methods - concat() (Laravel snippet)": {
+        "prefix": "->concat",
+        "body": ["->concat()"],
+        "description": "Available Collection Methods - concat() (Laravel snippet)"
+    },
+    "Available Collection Methods - contains() (Laravel snippet)": {
+        "prefix": "->contains",
+        "body": ["->contains()"],
+        "description": "Available Collection Methods - contains() (Laravel snippet)"
+    },
+    "Available Collection Methods - count() (Laravel snippet)": {
+        "prefix": "->count",
+        "body": ["->count()"],
+        "description": "Available Collection Methods - count() (Laravel snippet)"
+    },
+    "Available Collection Methods - countBy() (Laravel snippet)": {
+        "prefix": "->countBy",
+        "body": ["->countBy()"],
+        "description": "Available Collection Methods - countBy() (Laravel snippet)"
+    },
+    "Available Collection Methods - crossJoin() (Laravel snippet)": {
+        "prefix": "->crossJoin",
+        "body": ["->crossJoin()"],
+        "description": "Available Collection Methods - crossJoin() (Laravel snippet)"
+    },
+    "Available Collection Methods - dd() (Laravel snippet)": {
+        "prefix": "->dd",
+        "body": ["->dd()"],
+        "description": "Available Collection Methods - dd() (Laravel snippet)"
+    },
+    "Available Collection Methods - diff() (Laravel snippet)": {
+        "prefix": "->diff",
+        "body": ["->diff()"],
+        "description": "Available Collection Methods - diff() (Laravel snippet)"
+    },
+    "Available Collection Methods - diffAssoc() (Laravel snippet)": {
+        "prefix": "->diffAssoc",
+        "body": ["->diffAssoc()"],
+        "description": "Available Collection Methods - diffAssoc() (Laravel snippet)"
+    },
+    "Available Collection Methods - diffKeys() (Laravel snippet)": {
+        "prefix": "->diffKeys",
+        "body": ["->diffKeys()"],
+        "description": "Available Collection Methods - diffKeys() (Laravel snippet)"
+    },
+    "Available Collection Methods - dump() (Laravel snippet)": {
+        "prefix": "->dump",
+        "body": ["->dump()"],
+        "description": "Available Collection Methods - dump() (Laravel snippet)"
+    },
+    "Available Collection Methods - duplicates() (Laravel snippet)": {
+        "prefix": "->duplicates",
+        "body": ["->duplicates()"],
+        "description": "Available Collection Methods - duplicates() (Laravel snippet)"
+    },
+    "Available Collection Methods - each() (Laravel snippet)": {
+        "prefix": "->each",
+        "body": ["->each()"],
+        "description": "Available Collection Methods - each() (Laravel snippet)"
+    },
+    "Available Collection Methods - eachSpread() (Laravel snippet)": {
+        "prefix": "->eachSpread",
+        "body": ["->eachSpread()"],
+        "description": "Available Collection Methods - eachSpread() (Laravel snippet)"
+    },
+    "Available Collection Methods - every() (Laravel snippet)": {
+        "prefix": "->every",
+        "body": ["->every()"],
+        "description": "Available Collection Methods - every() (Laravel snippet)"
+    },
+    "Available Collection Methods - except() (Laravel snippet)": {
+        "prefix": "->except",
+        "body": ["->except()"],
+        "description": "Available Collection Methods - except() (Laravel snippet)"
+    },
+    "Available Collection Methods - filter() (Laravel snippet)": {
+        "prefix": "->filter",
+        "body": ["->filter()"],
+        "description": "Available Collection Methods - filter() (Laravel snippet)"
+    },
+    "Available Collection Methods - firstWhere() (Laravel snippet)": {
+        "prefix": "->firstWhere",
+        "body": ["->firstWhere()"],
+        "description": "Available Collection Methods - firstWhere() (Laravel snippet)"
+    },
+    "Available Collection Methods - flatMap() (Laravel snippet)": {
+        "prefix": "->flatMap",
+        "body": ["->flatMap()"],
+        "description": "Available Collection Methods - flatMap() (Laravel snippet)"
+    },
+    "Available Collection Methods - flatten() (Laravel snippet)": {
+        "prefix": "->flatten",
+        "body": ["->flatten()"],
+        "description": "Available Collection Methods - flatten() (Laravel snippet)"
+    },
+    "Available Collection Methods - flip() (Laravel snippet)": {
+        "prefix": "->flip",
+        "body": ["->flip()"],
+        "description": "Available Collection Methods - flip() (Laravel snippet)"
+    },
+    "Available Collection Methods - forget() (Laravel snippet)": {
+        "prefix": "->forget",
+        "body": ["->forget()"],
+        "description": "Available Collection Methods - forget() (Laravel snippet)"
+    },
+    "Available Collection Methods - forPage() (Laravel snippet)": {
+        "prefix": "->forPage",
+        "body": ["->forPage()"],
+        "description": "Available Collection Methods - forPage() (Laravel snippet)"
+    },
+    "Available Collection Methods - groupBy() (Laravel snippet)": {
+        "prefix": "->groupBy",
+        "body": ["->groupBy()"],
+        "description": "Available Collection Methods - groupBy() (Laravel snippet)"
+    },
+    "Available Collection Methods - implode() (Laravel snippet)": {
+        "prefix": "->implode",
+        "body": ["->implode()"],
+        "description": "Available Collection Methods - implode() (Laravel snippet)"
+    },
+    "Available Collection Methods - intersect() (Laravel snippet)": {
+        "prefix": "->intersect",
+        "body": ["->intersect()"],
+        "description": "Available Collection Methods - intersect() (Laravel snippet)"
+    },
+    "Available Collection Methods - intersectByKeys() (Laravel snippet)": {
+        "prefix": "->intersectByKeys",
+        "body": ["->intersectByKeys()"],
+        "description": "Available Collection Methods - intersectByKeys() (Laravel snippet)"
+    },
+    "Available Collection Methods - isEmpty() (Laravel snippet)": {
+        "prefix": "->isEmpty",
+        "body": ["->isEmpty()"],
+        "description": "Available Collection Methods - isEmpty() (Laravel snippet)"
+    },
+    "Available Collection Methods - isNotEmpty() (Laravel snippet)": {
+        "prefix": "->isNotEmpty",
+        "body": ["->isNotEmpty()"],
+        "description": "Available Collection Methods - isNotEmpty() (Laravel snippet)"
+    },
+    "Available Collection Methods - join() (Laravel snippet)": {
+        "prefix": "->join",
+        "body": ["->join()"],
+        "description": "Available Collection Methods - join() (Laravel snippet)"
+    },
+    "Available Collection Methods - keyBy() (Laravel snippet)": {
+        "prefix": "->keyBy",
+        "body": ["->keyBy()"],
+        "description": "Available Collection Methods - keyBy() (Laravel snippet)"
+    },
+    "Available Collection Methods - keys() (Laravel snippet)": {
+        "prefix": "->keys",
+        "body": ["->keys()"],
+        "description": "Available Collection Methods - keys() (Laravel snippet)"
+    },
+    "Available Collection Methods - last() (Laravel snippet)": {
+        "prefix": "->last",
+        "body": ["->last()"],
+        "description": "Available Collection Methods - last() (Laravel snippet)"
+    },
+    "Available Collection Methods - map() (Laravel snippet)": {
+        "prefix": "->map",
+        "body": ["->map()"],
+        "description": "Available Collection Methods - map() (Laravel snippet)"
+    },
+    "Available Collection Methods - mapInto() (Laravel snippet)": {
+        "prefix": "->mapInto",
+        "body": ["->mapInto()"],
+        "description": "Available Collection Methods - mapInto() (Laravel snippet)"
+    },
+    "Available Collection Methods - mapSpread() (Laravel snippet)": {
+        "prefix": "->mapSpread",
+        "body": ["->mapSpread()"],
+        "description": "Available Collection Methods - mapSpread() (Laravel snippet)"
+    },
+    "Available Collection Methods - mapToGroups() (Laravel snippet)": {
+        "prefix": "->mapToGroups",
+        "body": ["->mapToGroups()"],
+        "description": "Available Collection Methods - mapToGroups() (Laravel snippet)"
+    },
+    "Available Collection Methods - mapWithKeys() (Laravel snippet)": {
+        "prefix": "->mapWithKeys",
+        "body": ["->mapWithKeys()"],
+        "description": "Available Collection Methods - mapWithKeys() (Laravel snippet)"
+    },
+    "Available Collection Methods - max() (Laravel snippet)": {
+        "prefix": "->max",
+        "body": ["->max()"],
+        "description": "Available Collection Methods - max() (Laravel snippet)"
+    },
+    "Available Collection Methods - median() (Laravel snippet)": {
+        "prefix": "->median",
+        "body": ["->median()"],
+        "description": "Available Collection Methods - median() (Laravel snippet)"
+    },
+    "Available Collection Methods - merge() (Laravel snippet)": {
+        "prefix": "->merge",
+        "body": ["->merge()"],
+        "description": "Available Collection Methods - merge() (Laravel snippet)"
+    },
+    "Available Collection Methods - mergeRecursive() (Laravel snippet)": {
+        "prefix": "->mergeRecursive",
+        "body": ["->mergeRecursive()"],
+        "description": "Available Collection Methods - mergeRecursive() (Laravel snippet)"
+    },
+    "Available Collection Methods - min() (Laravel snippet)": {
+        "prefix": "->min",
+        "body": ["->min()"],
+        "description": "Available Collection Methods - min() (Laravel snippet)"
+    },
+    "Available Collection Methods - mode() (Laravel snippet)": {
+        "prefix": "->mode",
+        "body": ["->mode()"],
+        "description": "Available Collection Methods - mode() (Laravel snippet)"
+    },
+    "Available Collection Methods - nth() (Laravel snippet)": {
+        "prefix": "->nth",
+        "body": ["->nth()"],
+        "description": "Available Collection Methods - nth() (Laravel snippet)"
+    },
+    "Available Collection Methods - only() (Laravel snippet)": {
+        "prefix": "->only",
+        "body": ["->only()"],
+        "description": "Available Collection Methods - only() (Laravel snippet)"
+    },
+    "Available Collection Methods - pad() (Laravel snippet)": {
+        "prefix": "->pad",
+        "body": ["->pad()"],
+        "description": "Available Collection Methods - pad() (Laravel snippet)"
+    },
+    "Available Collection Methods - partition() (Laravel snippet)": {
+        "prefix": "->partition",
+        "body": ["->partition()"],
+        "description": "Available Collection Methods - partition() (Laravel snippet)"
+    },
+    "Available Collection Methods - pipe() (Laravel snippet)": {
+        "prefix": "->pipe",
+        "body": ["->pipe()"],
+        "description": "Available Collection Methods - pipe() (Laravel snippet)"
+    },
+    "Available Collection Methods - pipeInto() (Laravel snippet)": {
+        "prefix": "->pipeInto",
+        "body": ["->pipeInto()"],
+        "description": "Available Collection Methods - pipeInto() (Laravel snippet)"
+    },
+    "Available Collection Methods - pluck() (Laravel snippet)": {
+        "prefix": "->pluck",
+        "body": ["->pluck()"],
+        "description": "Available Collection Methods - pluck() (Laravel snippet)"
+    },
+    "Available Collection Methods - pop() (Laravel snippet)": {
+        "prefix": "->pop",
+        "body": ["->pop()"],
+        "description": "Available Collection Methods - pop() (Laravel snippet)"
+    },
+    "Available Collection Methods - prepend() (Laravel snippet)": {
+        "prefix": "->prepend",
+        "body": ["->prepend()"],
+        "description": "Available Collection Methods - prepend() (Laravel snippet)"
+    },
+    "Available Collection Methods - pull() (Laravel snippet)": {
+        "prefix": "->pull",
+        "body": ["->pull()"],
+        "description": "Available Collection Methods - pull() (Laravel snippet)"
+    },
+    "Available Collection Methods - push() (Laravel snippet)": {
+        "prefix": "->push",
+        "body": ["->push()"],
+        "description": "Available Collection Methods - push() (Laravel snippet)"
+    },
+    "Available Collection Methods - put() (Laravel snippet)": {
+        "prefix": "->put",
+        "body": ["->put()"],
+        "description": "Available Collection Methods - put() (Laravel snippet)"
+    },
+    "Available Collection Methods - random() (Laravel snippet)": {
+        "prefix": "->random",
+        "body": ["->random()"],
+        "description": "Available Collection Methods - random() (Laravel snippet)"
+    },
+    "Available Collection Methods - reduce() (Laravel snippet)": {
+        "prefix": "->reduce",
+        "body": ["->reduce()"],
+        "description": "Available Collection Methods - reduce() (Laravel snippet)"
+    },
+    "Available Collection Methods - reject() (Laravel snippet)": {
+        "prefix": "->reject",
+        "body": ["->reject()"],
+        "description": "Available Collection Methods - reject() (Laravel snippet)"
+    },
+    "Available Collection Methods - replace() (Laravel snippet)": {
+        "prefix": "->replace",
+        "body": ["->replace()"],
+        "description": "Available Collection Methods - replace() (Laravel snippet)"
+    },
+    "Available Collection Methods - replaceRecursive() (Laravel snippet)": {
+        "prefix": "->replaceRecursive",
+        "body": ["->replaceRecursive()"],
+        "description": "Available Collection Methods - replaceRecursive() (Laravel snippet)"
+    },
+    "Available Collection Methods - reverse() (Laravel snippet)": {
+        "prefix": "->reverse",
+        "body": ["->reverse()"],
+        "description": "Available Collection Methods - reverse() (Laravel snippet)"
+    },
+    "Available Collection Methods - search() (Laravel snippet)": {
+        "prefix": "->search",
+        "body": ["->search()"],
+        "description": "Available Collection Methods - search() (Laravel snippet)"
+    },
+    "Available Collection Methods - shift() (Laravel snippet)": {
+        "prefix": "->shift",
+        "body": ["->shift()"],
+        "description": "Available Collection Methods - shift() (Laravel snippet)"
+    },
+    "Available Collection Methods - shuffle() (Laravel snippet)": {
+        "prefix": "->shuffle",
+        "body": ["->shuffle()"],
+        "description": "Available Collection Methods - shuffle() (Laravel snippet)"
+    },
+    "Available Collection Methods - skip() (Laravel snippet)": {
+        "prefix": "->skip",
+        "body": ["->skip()"],
+        "description": "Available Collection Methods - skip() (Laravel snippet)"
+    },
+    "Available Collection Methods - skipUntil() (Laravel snippet)": {
+        "prefix": "->skipUntil",
+        "body": ["->skipUntil()"],
+        "description": "Available Collection Methods - skipUntil() (Laravel snippet)"
+    },
+    "Available Collection Methods - skipWhile() (Laravel snippet)": {
+        "prefix": "->skipWhile",
+        "body": ["->skipWhile()"],
+        "description": "Available Collection Methods - skipWhile() (Laravel snippet)"
+    },
+    "Available Collection Methods - slice() (Laravel snippet)": {
+        "prefix": "->slice",
+        "body": ["->slice()"],
+        "description": "Available Collection Methods - slice() (Laravel snippet)"
+    },
+    "Available Collection Methods - sort() (Laravel snippet)": {
+        "prefix": "->sort",
+        "body": ["->sort()"],
+        "description": "Available Collection Methods - sort() (Laravel snippet)"
+    },
+    "Available Collection Methods - sortBy() (Laravel snippet)": {
+        "prefix": "->sortBy",
+        "body": ["->sortBy()"],
+        "description": "Available Collection Methods - sortBy() (Laravel snippet)"
+    },
+    "Available Collection Methods - sortDesc() (Laravel snippet)": {
+        "prefix": "->sortDesc",
+        "body": ["->sortDesc()"],
+        "description": "Available Collection Methods - sortDesc() (Laravel snippet)"
+    },
+    "Available Collection Methods - sortKeys() (Laravel snippet)": {
+        "prefix": "->sortKeys",
+        "body": ["->sortKeys()"],
+        "description": "Available Collection Methods - sortKeys() (Laravel snippet)"
+    },
+    "Available Collection Methods - splice() (Laravel snippet)": {
+        "prefix": "->splice",
+        "body": ["->splice()"],
+        "description": "Available Collection Methods - splice() (Laravel snippet)"
+    },
+    "Available Collection Methods - split() (Laravel snippet)": {
+        "prefix": "->split",
+        "body": ["->split()"],
+        "description": "Available Collection Methods - split() (Laravel snippet)"
+    },
+    "Available Collection Methods - splitIn() (Laravel snippet)": {
+        "prefix": "->splitIn",
+        "body": ["->splitIn()"],
+        "description": "Available Collection Methods - splitIn() (Laravel snippet)"
+    },
+    "Available Collection Methods - sum() (Laravel snippet)": {
+        "prefix": "->sum",
+        "body": ["->sum()"],
+        "description": "Available Collection Methods - sum() (Laravel snippet)"
+    },
+    "Available Collection Methods - take() (Laravel snippet)": {
+        "prefix": "->take",
+        "body": ["->take()"],
+        "description": "Available Collection Methods - take() (Laravel snippet)"
+    },
+    "Available Collection Methods - takeUntil() (Laravel snippet)": {
+        "prefix": "->takeUntil",
+        "body": ["->takeUntil()"],
+        "description": "Available Collection Methods - takeUntil() (Laravel snippet)"
+    },
+    "Available Collection Methods - takeWhile() (Laravel snippet)": {
+        "prefix": "->takeWhile",
+        "body": ["->takeWhile()"],
+        "description": "Available Collection Methods - takeWhile() (Laravel snippet)"
+    }
+}

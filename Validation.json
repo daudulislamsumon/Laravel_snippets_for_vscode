@@ -2,7 +2,10 @@
     // Laravel snippets for vscode
     // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
     // Creation Date: 20/03/2021
-    // Creation Date: 21/03/2021
+    // Update Date: 21/03/2021
+    // *********************************************************
+    // ======================= Validation ======================
+    // *********************************************************
 
     "Validation Rules  - date (Laravel snippet)": {
         "prefix": "|date",
@@ -113,26 +116,6 @@
         "prefix": "$errors",
         "body": ["\\$errors"],
         "description": "The $errors variable  - $errors (Laravel snippet)"
-    },
-    "The $errors variable  - first() (Laravel snippet)": {
-        "prefix": "->first",
-        "body": ["->first()"],
-        "description": "The $errors variable  - first() (Laravel snippet)"
-    },
-    "The $errors variable  - get() (Laravel snippet)": {
-        "prefix": "->get",
-        "body": ["->get()"],
-        "description": "The $errors variable  - get() (Laravel snippet)"
-    },
-    "The $errors variable  - all() (Laravel snippet)": {
-        "prefix": "->all",
-        "body": ["->all()"],
-        "description": "The $errors variable  - all() (Laravel snippet)"
-    },
-    "The $errors variable  - has() (Laravel snippet)": {
-        "prefix": "->has",
-        "body": ["->has()"],
-        "description": "The $errors variable  - has() (Laravel snippet)"
     },
     "The $errors variable  - any() (Laravel snippet)": {
         "prefix": "->any",

@@ -2,8 +2,11 @@
     // Laravel snippets for vscode
     // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
     // Creation Date: 27/02/2021
-    // Creation Date: 28/02/2021
-    // Creation Date: 5/03/2021
+    // Update Date: 28/02/2021
+    // Update Date: 5/03/2021
+    // *********************************************************
+    // ==================== Router Methods =====================
+    // *********************************************************
 
     "Router Methods - Route::get (Laravel snippet)": {
         "prefix": "Route::get",

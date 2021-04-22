@@ -2,6 +2,9 @@
     // Laravel snippets for vscode
     // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
     // Creation Date: 06/03/2021
+    // *********************************************************
+    // ================== Database Query Builder ===============
+    // *********************************************************
 
     "Database: Query Builder - get (Laravel snippet)": {
         "prefix": "get",
